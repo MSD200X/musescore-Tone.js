@@ -806,7 +806,5 @@ define(function(){
 
 	Tone.version = "r6";
 
-	console.log("%c * Tone.js " + Tone.version + " * ", "background: #000; color: #fff");
-
 	return Tone;
 });
